@@ -1,0 +1,2 @@
+# framework
+An abstraction in which software providing generic functionality can be selectively changed by additional user-written code, thus providing application-specific software. Provides a standard way to build and deploy applications. Include support programs, compilers, code libraries, tool sets, and application programming interfaces (APIs) that bring together all the different components to enable development of a project or system.
